@@ -34,3 +34,17 @@ Args:
 Returns:
     The result of radius times 2 (area of circle).
 """
+
+def main():
+    print("Area Calculator!")
+    print("Choose a shape and calculate the area:")
+    print("1.) Rectangle")
+    print("2.) Triangle")
+    print("3.) Circle") 
+    
+    choice = input("Enter your choice 1,2,3")
+    
+"""Menu displayed and ask input from user
+Returns:
+    Displays the title and ask the user what shape they want to calculate.
+"""
