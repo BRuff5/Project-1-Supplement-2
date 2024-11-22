@@ -24,3 +24,13 @@ Args:
 Returns:
     The result of 0.5 * base * height(area of triangle).
 """
+
+def area_of_circle(radius):
+    return math.pi * (radius ** 2)
+"""Multiplies the radius times 2 and returns the result
+Args:
+    radius: the first summand.
+    2: the number
+Returns:
+    The result of radius times 2 (area of circle).
+"""
