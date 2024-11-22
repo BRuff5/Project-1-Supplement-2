@@ -46,5 +46,5 @@ def main():
     
 """Menu displayed and ask input from user
 Returns:
-    Displays the title and ask the user what shape they want to calculate.
+    Displays the title and ask the user what shape they want to calculate as an input.
 """
